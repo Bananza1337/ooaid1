@@ -1,0 +1,3 @@
+double a, b, s, p;
+Console.WriteLine("Enter a");
+            a = Convert.ToDouble(Console.ReadLine());
